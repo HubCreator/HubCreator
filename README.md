@@ -1,8 +1,8 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <a href="https://medium.com/dong-gle"/><img src="https://img.shields.io/badge/Donggle_Team_Blog-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gustmdasdf)](https://solved.ac/gustmdasdf)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gustmdasdf)](https://solved.ac/gustmdasdf)-->
 <!-- ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=gustmdasdf) -->
 
 
